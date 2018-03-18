@@ -1,0 +1,3 @@
+1. Every class should implement on action (have one responsibility)
+2. class responsibility is dependent on behaviour (not data)
+3. always use attribute accessors instead of @instance variables
