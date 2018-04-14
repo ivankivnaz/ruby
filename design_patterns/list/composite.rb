@@ -1,4 +1,4 @@
-Composition over inheritance. Compose objects into tree structures to represent part-whole hierarchies.+
+# Composition over inheritance. Compose objects into tree structures to represent part-whole hierarchies.+
 
 class CompositeQuest
   def initialize
