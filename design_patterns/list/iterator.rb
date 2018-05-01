@@ -1,3 +1,5 @@
+# Iterator helps you to iterate through a complex object using an interator method.
+
 class Parent
   attr_reader :first_name
 
