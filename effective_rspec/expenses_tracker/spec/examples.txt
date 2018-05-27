@@ -1,0 +1,7 @@
+example_id                                         | status  | run_time        |
+-------------------------------------------------- | ------- | --------------- |
+./spec/acceptence/expense_tracker_api_spec.rb[1:1] | pending | 0.07981 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:1]               | passed  | 0.00521 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:2]               | passed  | 0.05406 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:1]               | passed  | 0.00185 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:2]               | passed  | 0.00215 seconds |
